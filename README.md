@@ -1,2 +1,2 @@
 # alurabooks
-projeto  vendas de livros
+projeto fictício vendas de livros
